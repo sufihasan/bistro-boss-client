@@ -7,8 +7,8 @@
 - link: https://bistro-boss-fc63f.web.app
 
 ### fake admin email and passwork
-Admin Email: sifat@gmail.com<br>
-Admin Password: Sifat$&#4
+Admin Email:  sifat@gmail.com<br>
+Admin Password:  Sifat$&#4
 
 
 
